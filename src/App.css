@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.todoList {
+  display: flex;
+}
+
+.todoDetails>div{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+
